@@ -92,6 +92,7 @@ We use a pre-trained BERT model from Google Tensorflow for this implementation. 
 | :--- | :---         |     ----:     |        ---:  |            ---: |
 |    Logistic Regression   | Train: 0.87, Test: 0.84 | Train: 0.99, Test: 0.83 |      |   |
 |    MLP                   |         |       | Train: 0.819, Test: 0.816 | **Train: 0.23, Test:0.864** |
+
 <br/><br/><br/>
 # Section 3: Task -- Amazon Review Purchase Prediction
 
