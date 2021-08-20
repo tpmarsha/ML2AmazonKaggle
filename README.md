@@ -46,7 +46,7 @@ Latent factor models are another primary area of collaborative filtering1. This 
 
 ### 1.5 Solution: Ensemble Method - final submission *rmse: 1.13972*
 
-While each model we train is slightly more accurate than the provided baseline predictor, merging our models into an evenly weighted ensemble produces our most accurate results:
+While each model we train is slightly more accurate than the provided baseline predictor, merging our models into an evenly weighted ensemble produces our most accurate results on Kaggle:
 
 | Baseline RMSE | Item Avg. RMSE | k-NN RMSE | Factorization RMSE | Ensemble RMSE |
 | :---        |    :----:   |          ---:  |               ---: |          ---: |
